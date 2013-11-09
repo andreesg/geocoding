@@ -7,5 +7,6 @@ This is a simple example application using Google Maps SDK that allows us to:
   - Import coordinates from a .csv file and display them on the map
 
 The application front-end uses jquery, jquery-ui, underscore and twitter bootstrap and it has a very simple backend for authentication.
-The file that has the functions regarding the map application is main.js.
+
+Main.js is the file you should read.
 
